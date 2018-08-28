@@ -5,9 +5,10 @@
  4. clone, push and pull
  5. merge, rebase, apply patch
 
+(read the console messages)
 
 # Workflow
-![Git Workflow](workflow.svg)
+![Git Workflow](workflow2.svg)
 
 # example
  1. git clone git@github.com:amitmh/hello-git.git
