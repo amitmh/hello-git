@@ -7,6 +7,8 @@
 
 
 # Workflow
+![Git Workflow](workflow.svg)
+
 # example
  1. git clone git@github.com:amitmh/hello-git.git
  2. [do your changes; say in README.md ]
