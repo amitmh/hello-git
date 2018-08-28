@@ -5,12 +5,11 @@
  4. clone, push and pull
  5. merge, rebase, apply patch
 
-(read the console messages)
-
 # Workflow
 ![Git Workflow](workflow2.svg)
 
 # example
+ 0. [incase of doubt use `git status`]
  1. git clone git@github.com:amitmh/hello-git.git
  2. [do your changes; say in README.md ]
  3. [a] `$git status` should give you modified file name
