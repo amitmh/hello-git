@@ -11,7 +11,8 @@
 # example
  0. [incase of doubt use `git status`]
  1. git clone git@github.com:amitmh/hello-git.git
- 2. [do your changes; say in README.md ]
+ 2. [a] `checkout -b branch-name`
+ 2. [b] do your changes; say in README.md 
  3. [a] `git status` should give you modified file name
  3. [b] `git diff README.md` this will give you changes with respect to master. 
  3. [c] `git add README.md`
