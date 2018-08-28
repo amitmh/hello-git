@@ -17,4 +17,9 @@
  3. [b] `git diff README.md` this will give you changes with respect to master. 
  3. [c] `git add README.md`
  4. `$git commit -am 'add this comment'`
- 5. `$git push` this will upload changes to remote
+ 5. `$git push --set-upstream origin branch-name` this will upload changes to remote
+ 6. [a] to merge changes in master raise pull request or
+ 6. [b][1] `git checkout master`
+ 6. [b][2] `git merge feature`
+ 7. [b][3] `git push`
+ 
